@@ -1,0 +1,19 @@
+{
+  "name": "openmusic-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ramses Asmush",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.1.1",
+    "jsmediatags": "^3.9.7",
+    "mp3-duration": "^1.1.0"
+  }
+}
